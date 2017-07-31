@@ -85,7 +85,9 @@
 				84F022471F2F1B54004C42B6 /* BuildScripts */,
 				9314DB8C1BB9D5BD0066C31B /* keyboardSwitcher */,
 			);
+			indentWidth = 2;
 			sourceTree = "<group>";
+			tabWidth = 2;
 		};
 		9314DB8B1BB9D5BD0066C31B /* Products */ = {
 			isa = PBXGroup;
